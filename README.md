@@ -31,7 +31,7 @@ Mysellf AKA Opap's Ditudidi
 - Prints the round, the players's plays and the amount oof cards left in each player's deck.
 - When there are no more cards left to play. The game ends
 
-just launch the ´main.py´ file and enjoy
+just launch the  `main.py` file and enjoy
 
 # Objects
 
@@ -66,8 +66,8 @@ Afterwards I started workig on the main file. After fixing a few bugs it was fun
 
 - How to work with multiple Python files
 - How to reference different class objects from the same file
-- Make a proper ´docstring´
-- Use of ´Union´ for type declaration
+- Make a proper `docstring`
+- Use of `Union` for type declaration
 
 # Last minute changes
 
