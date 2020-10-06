@@ -23,13 +23,13 @@ Mysellf AKA Opap's Ditudidi
 
 # What does it do?
 
--Creates a deck of 52 distinct traditonnal cards and shuffles them.
--Creates 5 players and adds them to the Board.
--Deals the 52 cards as equally as possible to the 5 players
--As long as at least one player has a card, a new round will be started
--Each round, each player who can will play a card.
--Prints the round, the players's plays and the amount oof cards left in each player's deck.
--When there are no more cards left to play. The game ends
+- Creates a deck of 52 distinct traditonnal cards and shuffles them.
+- Creates 5 players and adds them to the Board.
+- Deals the 52 cards as equally as possible to the 5 players
+- As long as at least one player has a card, a new round will be started
+- Each round, each player who can will play a card.
+- Prints the round, the players's plays and the amount oof cards left in each player's deck.
+- When there are no more cards left to play. The game ends
 
 just launch the ´main.py´ file and enjoy
 
@@ -64,10 +64,10 @@ Afterwards I started workig on the main file. After fixing a few bugs it was fun
 
 # Lessons learned:/encountered difficulties
 
--How to work with multiple Python files
--How to reference different class objects from the same file
--Make a proper ´docstring´
--Use of ´Union´ for type declaration
+- How to work with multiple Python files
+- How to reference different class objects from the same file
+- Make a proper ´docstring´
+- Use of ´Union´ for type declaration
 
 # Last minute changes
 
